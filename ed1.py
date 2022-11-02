@@ -1,5 +1,6 @@
 from tkinter import *
 from tkinter import messagebox
+/*base64 module provides a function to encode the binary data to ASCII characters and decode that ASCII characters back to binary data.*/
 import base64
 import os
 
